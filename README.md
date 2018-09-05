@@ -1,0 +1,3 @@
+# casper-database
+
+PostgreSQL + Goose
